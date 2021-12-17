@@ -1,4 +1,4 @@
-package ch11;
+package ch14;
 
 public class CalcTest {
 
@@ -13,7 +13,10 @@ public class CalcTest {
 		System.out.println(calc.times(num1, num2));
 		System.out.println(calc.divide(num1, num2));
 		
+		calc.description();
 		
+		int[] array = {1,2,3,4,5};
+		System.out.println(Calc.total(array));
 	}
 
 }
