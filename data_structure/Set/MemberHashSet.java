@@ -1,20 +1,18 @@
-package Collection;
+package Set;
 
-import java.util.ArrayList;
+
 import java.util.HashSet;
 import java.util.Iterator;
 
-public class MemberArrayList {
+
+public class MemberHashSet {
 
 	private HashSet<Member> hashset;
 	
-	public MemberArrayList() {
+	public MemberHashSet() {
 		hashset = new HashSet<>();
 	}
 	
-	public MemberArrayList(int size) {
-		hashset = new HashSet<>(size);
-	}
 	
 	public void addMember(Member member) {
 		hashset.add(member);
@@ -50,4 +48,8 @@ public class MemberArrayList {
 		}
 		System.out.println();
 	}
+
+
+	
+	
 }
