@@ -10,6 +10,5 @@ public class GenericPrinterTest {
 		Powder p = powderPrinter.getMaterial();
 		System.out.println(powderPrinter.toString());
 		
-		p.
 	}
 }

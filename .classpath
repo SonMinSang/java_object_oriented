@@ -9,5 +9,6 @@
 	<classpathentry kind="src" path="core_src"/>
 	<classpathentry kind="src" path="useful_class"/>
 	<classpathentry kind="src" path="data_structure"/>
+	<classpathentry kind="src" path="variety_function"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
