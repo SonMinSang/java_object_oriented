@@ -1,0 +1,20 @@
+12월 29, 2021 6:48:53 오후 Logging.MyLogger log
+FINE: log test
+12월 29, 2021 6:48:53 오후 Logging.MyLogger log
+CONFIG: log test
+12월 29, 2021 6:48:53 오후 Logging.MyLogger log
+INFO: log test
+12월 29, 2021 6:48:53 오후 Logging.MyLogger log
+WARNING: log test
+12월 29, 2021 6:48:53 오후 Logging.MyLogger log
+SEVERE: log test
+12월 29, 2021 6:50:02 오후 Logging.MyLogger log
+INFO: log test
+12월 29, 2021 6:50:03 오후 Logging.MyLogger log
+WARNING: log test
+12월 29, 2021 6:50:03 오후 Logging.MyLogger log
+SEVERE: log test
+12월 29, 2021 7:01:39 오후 Logging.MyLogger warning
+WARNING: name must not be null
+12월 29, 2021 7:01:39 오후 Logging.MyLogger warning
+WARNING: 이름이 너무 길어요
