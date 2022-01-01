@@ -10,6 +10,7 @@ public abstract class Decorator extends Coffee{
 	@Override
 	public void brewing() {
 		// TODO Auto-generated method stub	
+		coffee.brewing();
 	}
 
 }

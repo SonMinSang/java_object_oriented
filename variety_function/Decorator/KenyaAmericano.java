@@ -1,12 +1,11 @@
 package Decorator;
 
-public class EtiopiaAmericano extends Coffee{
+public class KenyaAmericano extends Coffee{
 
 	@Override
 	public void brewing() {
 		// TODO Auto-generated method stub
-		
-		System.out.print("Etiopia Americano ");
+		System.out.print("Kenya American");
 	}
 
 }
