@@ -22,7 +22,7 @@ public class PriorityTest {
 		int i;
 		for (i = Thread.MIN_PRIORITY; i <= Thread.MAX_PRIORITY; i++) {
 			PriorityThread pt = new PriorityThread();
-			pt.setPriority(i);
+			pt.setPriority(i); 
 			pt.start();
 		}
 	}
