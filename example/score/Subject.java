@@ -2,12 +2,20 @@ package score;
 
 import java.util.ArrayList;
 
+import util.Define;
+
 public class Subject {
 
 	int subjectId;
 	String subjectName;
 	int gradeType;
 	ArrayList<Student> StudentList = new ArrayList<>();
+	public Subject(String subjectName, int subjectId){
+		this.subjectName = subjectName;
+		this.subjectId = subjectId;
+		this.gradeType = Define.AB_TYPE;   //기본적으로 A, B 타입
+	}
+	
 	public int getSubjectId() {
 		return subjectId;
 	}
