@@ -12,5 +12,6 @@
 	<classpathentry kind="src" path="variety_function"/>
 	<classpathentry kind="src" path="example"/>
 	<classpathentry kind="src" path="java_basic"/>
+	<classpathentry kind="src" path="Algorithm"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
